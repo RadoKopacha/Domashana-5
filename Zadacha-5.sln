@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count-NUmbers", "Count-NUmbers\Count-NUmbers.csproj", "{8C02FAAD-2224-4890-A854-96D3C9A475C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad-2", "Zad-2\Zad-2.csproj", "{47E3F4FC-C591-469C-BE4B-9772DBBE7E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad-3", "Zad-3\Zad-3.csproj", "{870CBEBD-EE4D-49C6-BA5B-8AB22E319AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C02FAAD-2224-4890-A854-96D3C9A475C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C02FAAD-2224-4890-A854-96D3C9A475C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C02FAAD-2224-4890-A854-96D3C9A475C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C02FAAD-2224-4890-A854-96D3C9A475C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E3F4FC-C591-469C-BE4B-9772DBBE7E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E3F4FC-C591-469C-BE4B-9772DBBE7E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E3F4FC-C591-469C-BE4B-9772DBBE7E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E3F4FC-C591-469C-BE4B-9772DBBE7E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870CBEBD-EE4D-49C6-BA5B-8AB22E319AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870CBEBD-EE4D-49C6-BA5B-8AB22E319AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870CBEBD-EE4D-49C6-BA5B-8AB22E319AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870CBEBD-EE4D-49C6-BA5B-8AB22E319AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D0BC9C-0D0F-4A04-93BB-7E12BA50F946}
+	EndGlobalSection
+EndGlobal

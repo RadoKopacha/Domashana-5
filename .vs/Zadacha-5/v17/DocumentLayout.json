@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Zadacha-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870CBEBD-EE4D-49C6-BA5B-8AB22E319AE4}|Zad-3\\Zad-3.csproj|c:\\users\\admin\\source\\repos\\zadacha-5\\zad-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870CBEBD-EE4D-49C6-BA5B-8AB22E319AE4}|Zad-3\\Zad-3.csproj|solutionrelative:zad-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E3F4FC-C591-469C-BE4B-9772DBBE7E92}|Zad-2\\Zad-2.csproj|c:\\users\\admin\\source\\repos\\zadacha-5\\zad-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E3F4FC-C591-469C-BE4B-9772DBBE7E92}|Zad-2\\Zad-2.csproj|solutionrelative:zad-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C02FAAD-2224-4890-A854-96D3C9A475C6}|Count-NUmbers\\Count-NUmbers.csproj|c:\\users\\admin\\source\\repos\\zadacha-5\\count-numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C02FAAD-2224-4890-A854-96D3C9A475C6}|Count-NUmbers\\Count-NUmbers.csproj|solutionrelative:count-numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Zadacha-5\\Zad-3\\Program.cs",
+              "RelativeDocumentMoniker": "Zad-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Zadacha-5\\Zad-3\\Program.cs",
+              "RelativeToolTip": "Zad-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:28:54.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Zadacha-5\\Zad-2\\Program.cs",
+              "RelativeDocumentMoniker": "Zad-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Zadacha-5\\Zad-2\\Program.cs",
+              "RelativeToolTip": "Zad-2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:14:29.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Zadacha-5\\Count-NUmbers\\Program.cs",
+              "RelativeDocumentMoniker": "Count-NUmbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Zadacha-5\\Count-NUmbers\\Program.cs",
+              "RelativeToolTip": "Count-NUmbers\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:04:03.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

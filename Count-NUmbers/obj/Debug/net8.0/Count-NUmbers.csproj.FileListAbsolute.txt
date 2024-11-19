@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\bin\Debug\net8.0\Count-NUmbers.exe
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\bin\Debug\net8.0\Count-NUmbers.deps.json
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\bin\Debug\net8.0\Count-NUmbers.runtimeconfig.json
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\bin\Debug\net8.0\Count-NUmbers.dll
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\bin\Debug\net8.0\Count-NUmbers.pdb
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\Count-NUmbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\Count-NUmbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\Count-NUmbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\Count-NUmbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\Count-NUmbers.dll
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\refint\Count-NUmbers.dll
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\Count-NUmbers.pdb
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\Count-NUmbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Zadacha-5\Count-NUmbers\obj\Debug\net8.0\ref\Count-NUmbers.dll
